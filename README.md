@@ -1,9 +1,10 @@
 # Catacomb: 3D First-Person Survival Horror (Unity Engine)
 
 A first-person 3D survival horror maze game developed in Unity Engine (C#). Set in an underground subterranean labyrinth, players must navigate through dark corridors, manage limited inventory resources (lantern light, ammunition), evade/neutralize an aggressive patrol AI, and find the escape key to unlock the exit door. 
-<p align="center">
-  <img src="docs/gameplay_preview.png" alt="Catacomb 3D Gameplay Preview" width="800"/>
-</p>
+
+![Uploading image.png…]()
+
+
 The project features two distinct, hand-crafted maze layouts representing scalable difficulty tiers with differing sight-lines, patrol route densities, and chase mechanics.
 
 ---
