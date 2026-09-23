@@ -8,7 +8,7 @@ The project features two distinct, hand-crafted maze layouts representing scalab
 
 ### 🎮 Play & Download
 * **Playable Windows Build (.zip):** [Download from Google Drive](https://drive.google.com/drive/folders/YOUR_FOLDER_ID_HERE?usp=sharing)
-*(Replace this link with your actual Google Drive / itch.io download link)*
+
 
 ---
 
