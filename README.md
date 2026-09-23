@@ -7,7 +7,7 @@ The project features two distinct, hand-crafted maze layouts representing scalab
 ---
 
 ### 🎮 Play & Download
-* **Playable Windows Build (.zip):** [Download from Google Drive](https://drive.google.com/drive/folders/YOUR_FOLDER_ID_HERE?usp=sharing)
+* **Playable Windows Build (.zip):** You Can Download the File Zip Project from the Top of this page.
 
 
 ---
