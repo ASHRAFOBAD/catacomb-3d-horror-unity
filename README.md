@@ -5,6 +5,7 @@ A first-person 3D survival horror maze game developed in Unity Engine (C#). Set 
 ![Uploading image.png…]()
 
 
+
 The project features two distinct, hand-crafted maze layouts representing scalable difficulty tiers with differing sight-lines, patrol route densities, and chase mechanics.
 
 ---
