@@ -2,7 +2,7 @@
 
 A first-person 3D survival horror maze game developed in Unity Engine (C#). Set in an underground subterranean labyrinth, players must navigate through dark corridors, manage limited inventory resources (lantern light, ammunition), evade/neutralize an aggressive patrol AI, and find the escape key to unlock the exit door. 
 
-![Uploading image.png…]()
+![Catacomb Game Main Menu](catacomb_ui.jpeg)
 
 
 
